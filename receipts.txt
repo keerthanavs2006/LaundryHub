@@ -1,0 +1,56 @@
+
+-----------------------------
+Date: 2025-10-16 10:09:51
+Name: keerthana
+Email: abc@gmail.com
+Phone: 8304081468
+Total Amount: ₹200
+Pickup Date: 2025-10-01
+Delivery Date: 2025-10-07
+Location: Shop 1: Near West Hill Govt. Engineering College
+-----------------------------
+
+-----------------------------
+Date: 2025-10-17 08:58:04
+Name: keerthana
+Email: abc@gmail.com
+Phone: 8304509183
+Total Amount: ₹120
+Pickup Date: 2025-01-06
+Delivery Date: 2025-01-10
+Location: Shop 1: Near West Hill Govt. Engineering College
+-----------------------------
+
+-----------------------------
+Date: 2025-10-17 10:14:21
+Name: fghj
+Email: cvb@gmail.com
+Phone: 9876564535
+Total Amount: ₹170
+Pickup Date: 2025-10-05
+Delivery Date: 2025-10-09
+Location: dsrghggh
+ghfhghjj
+-----------------------------
+
+-----------------------------
+Date: 2025-10-23 13:35:58
+Name: keerthana
+Email: abc@gmail.com
+Phone: 8654321897
+Total Amount: ₹150
+Pickup Date: 2025-01-06
+Delivery Date: 2025-01-30
+Location: Shop 1: Near West Hill Govt. Engineering College
+-----------------------------
+
+-----------------------------
+Date: 2025-10-23 14:10:39
+Name: keerthana
+Email: abc@gmail.com
+Phone: 8304081468
+Total Amount: ₹150
+Pickup Date: 2025-01-06
+Delivery Date: 2025-01-30
+Location: Shop 1: Near West Hill Govt. Engineering College
+-----------------------------
